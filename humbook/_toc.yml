@@ -2,9 +2,19 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
 - file: intro
-- file: faq
-- file: roadmap
-- file: personas
-  sections:
-    - file: markdown
-    - file: notebooks
+
+- part: Get started
+    chapters:
+    - file: start/overview
+    - file: start/faq
+    - file: start/contributing
+
+- part: Problem domains
+    chapters:
+    - file: domains/preparedness
+    - file: domains/response
+    
+- part: Humanitarian actor personas
+    chapters: 
+    - file: personas/development
+    - file: personas/p1
