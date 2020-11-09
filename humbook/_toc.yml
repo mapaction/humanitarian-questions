@@ -1,20 +1,19 @@
-# Table of content
-# Learn more at https://jupyterbook.org/customize/toc.html
-#
 - file: intro
 
 - part: Get started
-    chapters:
-    - file: start/overview
-    - file: start/faq
-    - file: start/contributing
-
+  chapters:
+  - file: start/overview
+  - file: start/faq
+  - file: start/contributing
+  
 - part: Problem domains
-    chapters:
-    - file: domains/preparedness
-    - file: domains/response
-    
+  chapters:
+  - file: domains/preparedness
+  - file: domains/response
+  
 - part: Humanitarian actor personas
-    chapters: 
-    - file: personas/development
-    - file: personas/p1
+  chapters:
+  - file: personas/personas
+  - file: personas/p1
+  
+  
