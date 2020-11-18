@@ -19,7 +19,7 @@ These instructions below assume prior experience with Git/GitHub (as well as hav
 git clone https://github.com/mapaction/humanitarian-questions.git
 ```
 
-2. Create a pip or conda virtual environment and download the package dependencies. Note that there is a known incompatibility with Python 3.8 on Windows. See (this guidance)[https://jupyterbook.org/advanced/advanced.html#working-on-windows] if you are working on Windows.
+2. Create a pip or conda virtual environment and download the package dependencies. Note that there is a known incompatibility with Python 3.8 on Windows. See [this guidance](https://jupyterbook.org/advanced/advanced.html#working-on-windows) if you are working on Windows.
 
 ```
 pip install requirements.txt
