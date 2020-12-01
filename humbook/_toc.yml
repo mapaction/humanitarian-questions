@@ -6,6 +6,10 @@
   - file: start/faq
   - file: start/contributing
   
+- part: Methodology
+  chapters:
+  - file: methodology/overview
+  
 - part: Problem domains
   chapters:
   - file: domains/preparedness

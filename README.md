@@ -13,13 +13,9 @@ The content for this project is published as a Jupyter Book. We have chosen to h
 
 These instructions below assume prior experience with Git/GitHub (as well as having a GitHub account). These steps describe the process for building a local copy of this book, upon which you can make and propose changes. This Jupyter book is deployed through GitHub pages (on the ```gh-pages``` branch), and will automatically be rebuilt and redeployed when the ```main``` branch is updated. 
 
-1. Clone the repository 
+1. Fork this repository on GitHub and clone this fork locally. 
 
-```
-git clone https://github.com/mapaction/humanitarian-questions.git
-```
-
-2. Create a pip or conda virtual environment and download the package dependencies. Note that there is a known incompatibility with Python 3.8 on Windows. See [this guidance](https://jupyterbook.org/advanced/advanced.html#working-on-windows) if you are working on Windows.
+2. From the main project directory, create a pip or conda virtual environment and download the package dependencies. Note that there is a known incompatibility with Python 3.8 on Windows. See [this guidance](https://jupyterbook.org/advanced/advanced.html#working-on-windows) if you are working on Windows.
 
 ```
 pip install requirements.txt
@@ -30,5 +26,5 @@ pip install requirements.txt
 4. View your edits by building a local copy of the book
 
 ```
-jupyter-book build /humbook
+jupyter-book build humbook/
 ```
