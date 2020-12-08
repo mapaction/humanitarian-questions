@@ -1,6 +1,6 @@
 Welcome
 ============================
 
-The Humanitarian Questions project is a structured repository where problem domains within the humanitarian sector are documented. This project aims to capture the problems that different humanitarian actors face in their work, to help organizations such as MapAction develop more appropriate solutions. 
+The Humanitarian Questions project offers a methodology for exploring 'big questions' in the humanitarian sector. We have adapted material from technical service delivery to the humanitarian sector, and hope that this approach can be applied by a variety of organizations to better understand problem domains abd collaborate more effectively with each other, leading to the development of effective products and services. 
 
 We are committed to developing this material collaboratively, and so encourage feedback and contributions from anyone engaged within the humanitarian sector.     
