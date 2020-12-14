@@ -8,16 +8,20 @@
   
 - part: Methodology
   chapters:
-  - file: methodology/overview
-  
-- part: Problem domains
-  chapters:
-  - file: domains/preparedness
-  - file: domains/response
-  
-- part: Humanitarian actor personas
-  chapters:
-  - file: personas/personas
-  - file: personas/p1
-  
+  - file: methodology/10_explore
+    sections: 
+      - file: methodology/11_actors
+      - file: methodology/12_data
+      - file: methodology/13_problem
+      - file: methodology/14_practitioner
+  - file: methodology/20_project
+    sections: 
+      - file: methodology/21_objectives
+      - file: methodology/22_needs
+      - file: methodology/23_methodology
+  - file: methodology/30_products
+    sections: 
+      - file: methodology/31_story
+      - file: methodology/32_apply
+      - file: methodology/33_iterate
   
