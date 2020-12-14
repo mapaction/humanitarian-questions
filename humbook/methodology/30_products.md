@@ -1,2 +1,2 @@
-Develop product(s)
+Develop product(s) and services
 =======================
